@@ -1,0 +1,14 @@
+_WriteAddressToLCD: CODE, 1644 0 20
+_ClearScreen: CODE, 1793 0 58
+_DisplayPicture: CODE, 1921 0 123
+__stringtab: STRCODE, 2048 0 18
+_Picture1: STRCODE, 2066 0 1024
+_WriteCommandToLCD: CODE, 1612 0 16
+_main: CODE, 1851 0 70
+__initialization: CODE, 2044 0 0
+_WriteDataToLCD: CODE, 1628 0 16
+_ChipSelection: CODE, 1664 0 24
+_FillScreen: CODE, 1735 0 58
+_InitializeGraphicalLCD: CODE, 1688 0 47
+_ToggleEnablePin: CODE, 1603 0 9
+Total: 1483
